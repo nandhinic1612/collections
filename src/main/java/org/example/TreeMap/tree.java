@@ -8,7 +8,7 @@ public class tree {
         tree.put(1,"D");
         tree.put(2,"S");
         tree.put(3,"R");
-        tree.put(4,"N");
+      //  tree.put(4,"N");
         System.out.println(tree);
 
         tree.putIfAbsent(5,"L");
