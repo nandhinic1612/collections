@@ -9,6 +9,7 @@ public class List2 {
         L1.add(2);
         L1.add(5);
         L1.add(6);
+        L1.add(8);
         System.out.println(L1);
         ArrayList L2=new ArrayList();
         L2.add(10);
