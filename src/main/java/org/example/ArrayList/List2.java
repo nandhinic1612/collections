@@ -26,6 +26,7 @@ public class List2 {
         System.out.println("check the index : " +L1.indexOf(3));
         System.out.println("check the index : " +L1.indexOf(4));
         System.out.println("check the index : " +L1.indexOf(2));
+        System.out.println("check the index : " +L1.indexOf(1));
         
     }
 }
