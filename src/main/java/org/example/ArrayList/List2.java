@@ -20,6 +20,8 @@ public class List2 {
         System.out.println(L1);
 
         System.out.println("contains 5 in L1 : " +L1.contains(5));
+        System.out.println("contains 16 in L2 : " +L2.contains(16));
+        System.out.println("contains 2 in L1 : " +L1.contains(2));
         
     }
 }
