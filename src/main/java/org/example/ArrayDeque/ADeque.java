@@ -11,6 +11,7 @@ public class ADeque {
         ADeque.addFirst(13);
         ADeque.offerFirst(44);
         ADeque.add(45);
+        ADeque.add(20);
         System.out.println("ArrayDeque :"+ADeque);
 
         Iterator AD = ADeque.iterator();
