@@ -11,6 +11,7 @@ public class List2 {
         L1.add(6);
         System.out.println(L1);
         ArrayList L2=new ArrayList();
+        L2.add(10);
         L2.add(11);
         L2.add(12);
         L2.add(14);
