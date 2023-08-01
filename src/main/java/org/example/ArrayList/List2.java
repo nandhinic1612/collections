@@ -23,7 +23,8 @@ public class List2 {
         System.out.println("contains 16 in L2 : " +L2.contains(16));
         System.out.println("contains 2 in L1 : " +L1.contains(2));
         System.out.println("check the index : " +L1.indexOf(3));
-        //System.out.println("check the index : " +L1.indexOf(4));
+        System.out.println("check the index : " +L1.indexOf(4));
+        System.out.println("check the index : " +L1.indexOf(2));
         
     }
 }
