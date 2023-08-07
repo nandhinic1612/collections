@@ -18,6 +18,7 @@ public class List2 {
         L2.add(12);
         L2.add(14);
         L2.add(15);
+        L2.add(16);
         System.out.println(L2);
         L1.addAll(L2);
         System.out.println(L1);
