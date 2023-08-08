@@ -6,7 +6,7 @@ import java.util.Iterator;
 public class ADeque {
     public static void main(String[] args) {
         ArrayDeque<Integer> ADeque = new ArrayDeque<>();
-        //add one line
+        //add two line
         ADeque.add(23);
         ADeque.add(34);
         ADeque.addFirst(13);
