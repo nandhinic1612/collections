@@ -4,6 +4,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 class DeQueue {
+    //comment line
 
     public static void main(String[] args) {
         Deque<Integer> numbers = new LinkedList<>();

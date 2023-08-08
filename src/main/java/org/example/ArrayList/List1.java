@@ -10,6 +10,7 @@ public class List1 {
         alist.add(4);*/
         for(int i=1;i<=10;i++)
         alist.add(i);
+        //add some other topics
 
         alist.add(10);  //supports repetation
         alist.add(10);
